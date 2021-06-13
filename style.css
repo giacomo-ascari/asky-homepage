@@ -1,0 +1,10 @@
+body {
+    background-color: hsl(0,33%,15%);
+    color: white;
+    font-family: 'Raleway', sans-serif;
+}
+
+.center {
+    padding: 10px;
+    text-align: center;
+  }

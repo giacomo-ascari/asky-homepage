@@ -4,7 +4,15 @@ body {
     font-family: 'Raleway', sans-serif;
 }
 
+a {
+    color: #000;
+    text-decoration: none;
+    background-color: #eee;
+    padding: 10px;
+    border-radius: 4px;
+}
+
 .center {
     padding: 10px;
     text-align: center;
-  }
+}

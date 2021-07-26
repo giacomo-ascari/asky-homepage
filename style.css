@@ -8,8 +8,14 @@ a {
     color: #000;
     text-decoration: none;
     background-color: #eee;
+    opacity: 1;
     padding: 10px;
     border-radius: 4px;
+    transition: 0.2s;
+}
+
+a:hover {
+    opacity: 0.75;
 }
 
 .center {
